@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04242720-734a-42d5-9123-17cd3f01388e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSE1222Mock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q1/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q1/Runner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q1/Supervisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q1/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q2/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q2/MatrixRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ntXBecv6C7DznIPXKl2M56pxK1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Runner1.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.WorkerTest.testSupervisorToString.executor": "Run",
+    "JUnit.WorkerTest.testWorkerToString.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "E:/JAVA/CSE1222Mock/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="q1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WorkerTest.testSupervisorToString">
+    <configuration name="WorkerTest.testSupervisorToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSE1222Mock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="q1" />
+      <option name="MAIN_CLASS_NAME" value="q1.WorkerTest" />
+      <option name="METHOD_NAME" value="testSupervisorToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkerTest.testWorkerToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CSE1222Mock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="q1" />
+      <option name="MAIN_CLASS_NAME" value="q1.WorkerTest" />
+      <option name="METHOD_NAME" value="testWorkerToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WorkerTest.testSupervisorToString" />
+        <item itemvalue="JUnit.WorkerTest.testWorkerToString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04242720-734a-42d5-9123-17cd3f01388e" name="Changes" comment="" />
+      <created>1729793214052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729793214052</updated>
+    </task>
+    <servers />
+  </component>
+</project>
